@@ -6,3 +6,4 @@ This project is based on [this paper](https://arxiv.org/abs/1409.3215) and follo
 ## To do
 
 - [ ] Explain the code
+- [ ] Understand Attention-based network
